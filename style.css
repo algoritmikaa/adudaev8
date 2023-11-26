@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(navy,firebrick,white);
+    padding: 50px;
+    font-size: 45px;
+}
+
+header a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: navy;
+    font-size: 30px;
+    text-shadow: 5px 5px 5px black;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: navy;
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    font-size: 30px;
+    text-shadow: 10px 10px 10px black;
+}
+
+main p {
+    font-size: 20px;
+    color: navy;
+}
+
+main a {
+    text-decoration: none;
+    color: navy;
+}
+
+ol {
+    color: navy;
+    text-shadow: 5px 5px 5px black;
+}
+
+p {
+    text-shadow: 5px 5px 5px black;
+}
+
+footer a {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+header a {
+    padding: 10px;
+}
